@@ -21,7 +21,7 @@ Q3 Response Here (<100 words)
 
 The total KBTU combined electricity and gas consumption in PG&E territory in 2017 is 2.73e11 kBTU. The average annual electricity consumption per customer is 21951.5 kBTU and the average annual gas consumption per customer is 43258 kBTU. Note that the values obtained here are the results of the modified dataset in which the duplicate for month 9 in the Q4 was deleted before the analysis. 
 
-
+DN: We came to slightly different total KBTU's and very differeny electricity and gas averages (thought we both found that gas was about twice electricity). This could be because I did not find the duplicate in month 9. 
 
 #### Q5: How would you explain the results of this chart to an average property owner in Northern California? What would be the value of conducting further "seasonal" analyses of energy use, compared to "year-long" analyses, and how would you define seasonal boundaries?
 
@@ -29,6 +29,7 @@ From the chart, it can be seen that gas usage is extremely high in the first qua
 
 By conducting seasonal analyses of energy use versus year-long analyses, we can see the distribution of energy uses clearly. Such as the one seen in the chart, by doing seasonal analyses, we can understand the trends of gas usage vs electricity usage that is different for different periods of time. I would define the seasonal boundaries as winter and summer, in which winter is the time where gas usage is higher than electricity usage and summer is the time where electricity usage is higher than gas usage. 
 
+DN: Our explanations for the gas and electricity trends were similar, though I would add that a further value of conducting "seasonal" analyses of energy use is for utilities to optimize their electricity production by reducing or increasing it during particular seasons, and by preparing back-up sources of electricity to avoid blackouts during the summer.  
 
 #### Q6: Explain your choice of formula for "avgkbtu".
 
@@ -40,12 +41,13 @@ First, I grabbed the total number of customers for electricity and gas for a spe
 
 https://docs.google.com/presentation/d/14duGwbwPZvuCNpZdu4EKMpnpZB_NZ8Z8cvqYGl_q2Tg/edit?usp=sharing
 
-
+DN: Nice maps, though it would add clarity to make the color schemes different for the average vs. total kbtu maps. 
 
 #### Q8 In what ways do the results in or in the vicinity of your chosen zip code validate or contradict your expectations?
 
 I used Stanford’s ZIP code. Based on the images, it can be seen that Stanford has a very high average but has a very low total usage, which is similar to what I would expect. This is because Stanford is a campus and not a packed residential area where there would be lots of customers that use energy. Because there are not as many residents, the total energy usage is also low. But on the other hand, the fact that Stanford doesn’t have as many residents also cause the average energy usage to be really high. 
 
+DN: We write similar explanations for this (I also used Stanford's zip code). Upon further reflection, I think the way PG&E collects "household" data would affect how Stanford's zip code is represented in the dataset. How do different Stanford departments and buildings pay their bill-s- what counts as an individual customer or household? I'd like to know the anwers to these questions to better understand Q8. 
 
 #### Q9 Any other reactions to completing Pass One? What was especially challenging or surprising in the workflow? How might you expand on this analysis if you had more time?
 
@@ -53,7 +55,7 @@ It took longer to complete Pass One than I thought. It was partly because of all
 
 If I had more time, I would probably spend more time analyzing the results and think about why the results are the way they are by going through some of the details, instead of just looking at the total values for example. I might also look at the energy usage separately (gas and electricity) as opposed to the total usage immediately. 
 
-
+DN: I agree that Pass One took longer than expected, and that looking at gas and electricity seperately would be a good next step, since the production, demand, and supply of these resources is different. 
 
 #### Q10 How would you compare the experienced or apparent work involved, as well as the usefulness of the outcome, of Pass One vs. Pass Two? How would you rate the difficulty of this assignment?
 
